@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 佳应的博客
+title: LJY Blog
 email: 1282459418@qq.com
 author: Li Jiaying(ddzipp)
 
