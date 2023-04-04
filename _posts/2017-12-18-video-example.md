@@ -39,5 +39,5 @@ In future, drivers will be able to choose whether they wish to be driven or do t
 
 ## This is the poster image
 In modern browsers, adding a video to your page is as easy as adding an image. No longer do you need to deal with special plug-ins or require crazy markup, you can do it with a single element.
-![video](//www.html5rocks.com/en/tutorials/video/basics/devstories.webm)
+![video](www.html5rocks.com/en/tutorials/video/basics/devstories.webm)
 
